@@ -45,4 +45,3 @@ python main.py
 | `Left Click`    | Toggle cell state (alive/dead)                   |
 | `Space`         | Start / Stop simulation                          |
 | `Close Window`  | Exit the application                             |
-|-----------------|--------------------------------------------------|
