@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Sanal ortam (virtualenv)
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor klasörleri
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# PyInstaller çıktıları (exe, dist, build vs.)
+dist/
+build/
+*.spec
+
+# Log dosyaları
+*.log
+
+# Kişisel konfigürasyon dosyaları
+*.env
+*.ini
+*.cfg
